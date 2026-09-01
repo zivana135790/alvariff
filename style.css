@@ -1,0 +1,187 @@
+header{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: monospace;
+    }
+    
+    .logo_profile{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .logo_profile img{
+      height: 150px;
+      border-radius: 50%;
+    }
+    
+    .Social_media{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .Social_media img{
+      height: 50px;
+    }
+    
+    .support{
+      display: flex;
+      width: fit-content;
+      padding: 8px 15px;
+      background: #c2d4f2;
+      border-radius: 8px;
+      align-items: center;
+      justify-content: center;
+      margin: auto;
+    }
+    
+    .support a{
+      display: flex;
+      color: black;
+      text-decoration: none;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    h2{
+      display: flex;
+      font-family: Arial;
+      font-weight: 900;
+      justify-content:  center;
+      align-items: center;
+    }
+    
+    .produk_1{
+      display: flex;
+      width: fit-content;
+      padding: 8px 15px;
+      background: #c2d4f2;
+      border-radius: 8px;
+      align-items: center;
+      justify-content: center;
+      margin: auto;
+    }
+    .produk_1 img{
+      height: 80px;
+      margin-right: 10px;
+      align-items: center;
+      justify-content: center;
+    }
+    .produk_1 a{
+      display: flex;
+      color: black;
+      text-decoration: none;
+      font-family: Arial;
+      font-size: 20px;
+      font-weight: 900;
+      align-items: center;
+      justify-content: center;
+    }
+    .produk_2{
+      display: flex;
+      width: fit-content;
+      padding: 8px 15px;
+      background: #c2d4f2;
+      border-radius: 8px;
+      align-items: center;
+      justify-content: center;
+      margin: auto;
+    }
+    .produk_2 img{
+      height: 80px;
+      margin-right: 10px;
+      align-items: center;
+      justify-content: center;
+    }
+    .produk_2 a{
+      display: flex;
+      color: black;
+      text-decoration: none;
+      font-family: Arial;
+      font-size: 20px;
+      font-weight: 900;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    .produk_3{
+      display: flex;
+      width: fit-content;
+      padding: 8px 15px;
+      background: #c2d4f2;
+      border-radius: 8px;
+      align-items: center;
+      justify-content: center;
+      margin: auto;
+    }
+    .produk_3 img{
+      height: 80px;
+      margin-right: 10px;
+      align-items: center;
+      justify-content: center;
+    }
+    .produk_3 a{
+      display: flex;
+      color: black;
+      text-decoration: none;
+      font-family: Arial;
+      font-size: 20px;
+      font-weight: 900;
+      align-items: center;
+      justify-content: center;
+    }
+    .produk_4{
+      display: flex;
+      width: fit-content;
+      padding: 8px 15px;
+      background: #c2d4f2;
+      border-radius: 8px;
+      align-items: center;
+      justify-content: center;
+      margin: auto;
+    }
+    .produk_4 img{
+      height: 80px;
+      margin-right: 10px;
+      align-items: center;
+      justify-content: center;
+    }
+    .produk_4 a{
+      display: flex;
+      color: black;
+      text-decoration: none;
+      font-family: Arial;
+      font-size: 20px;
+      font-weight: 900;
+      align-items: center;
+      justify-content: center;
+    }
+    .produk_5{
+      display: flex;
+      width: fit-content;
+      padding: 8px 15px;
+      background: #c2d4f2;
+      border-radius: 8px;
+      align-items: center;
+      justify-content: center;
+      margin: auto;
+    }
+    .produk_5 img{
+      height: 80px;
+      margin-right: 10px;
+      align-items: center;
+      justify-content: center;
+    }
+    .produk_5 a{
+      display: flex;
+      color: black;
+      text-decoration: none;
+      font-family: Arial;
+      font-size: 20px;
+      font-weight: 900;
+      align-items: center;
+      justify-content: center;
+    }
